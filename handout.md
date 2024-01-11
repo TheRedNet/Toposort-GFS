@@ -1,9 +1,9 @@
-# Topologiches Sortieren
+# Topologisches Sortieren
 
 ### Ziel
-Knoten eines gerichteten Graphen in eine Reihenfolge bring bei der alle Abhängigkeiten erfüllt werden.
+Knoten eines gerichteten Graphen in eine Reihenfolge bringen bei der alle Abhängigkeiten erfüllt werden.
 ### Wichtig
-Der Graph darf nicht zyklisch sein. Also es darf keinen weg von einem Knoten zu sich selbst geben. 
+Der Graph darf nicht zyklisch sein. Also es darf keinen Weg von einem Knoten zu sich selbst geben. 
 ## Der gezeigte Algorithmus
 ### Pseudo Code
 
